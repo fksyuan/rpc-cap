@@ -20,7 +20,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MetaMask/rpc-cap.git"
+    "url": "git+https://github.com/fksyuan/rpc-cap.git"
   },
   "devDependencies": {
     "@istanbuljs/nyc-config-typescript": "^0.1.3",
