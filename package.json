@@ -36,7 +36,7 @@
     "typescript": "^3.7.5"
   },
   "dependencies": {
-    "@metamask/controllers": "^2.0.2",
+    "@fksyuan/controllers": "^3.0.1",
     "eth-rpc-errors": "^2.1.1",
     "is-subset": "^0.1.1",
     "json-rpc-engine": "^5.2.0",
