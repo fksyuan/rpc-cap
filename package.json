@@ -1,5 +1,5 @@
 {
-  "name": "@fksyuan@rpc-cap",
+  "name": "@fksyuan/rpc-cap",
   "version": "3.1.0",
   "description": "A module for adding an object-capabilities system to any JSON-RPC API as middleware for json-rpc-engine",
   "main": "dist/index.js",
